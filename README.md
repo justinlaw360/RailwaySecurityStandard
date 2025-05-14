@@ -9,7 +9,20 @@ EN 50126 – This standard focuses on Reliability, Availability, Maintainability
 
 EN ISO/IEC 27001 & EN ISO 27002 – These are general cybersecurity standards that provide guidelines for information security management systems. TS 50701 aligns with some of their security management principles
 
+China has several railway security standards, particularly focusing on cybersecurity and critical infrastructure protection. Here are some key ones:
 
+IEC 63452 – This is an international railway cybersecurity standard that China has adopted alongside other countries like France and Japan.
+
+Cybersecurity Measures for Railway Critical Information Infrastructure – Adopted by China's Ministry of Transport in December 2023, this regulation strengthens security for railway critical information infrastructure, including network security monitoring, early warning systems, and regular security inspections. https://xxgk.mot.gov.cn/2020/jigou/fgs/202401/t20240104_3980678.html
+
+ISO 27001, TS50701, and IEC 62443 are international standards that provide guidance on cybersecurity best practices.
+
+ISO 27001 is a generic information security standard that can be applied to any organization. It provides a framework for managing information security risks and protecting data and systems.
+TS50701 is a railway-specific information security standard. It is based on ISO 27001 and includes additional requirements for railway cybersecurity.
+IEC 62443 is a set of standards that provide guidance on cybersecurity for industrial control systems. This includes railway signalling and control systems.
+Railways can use these standards to develop and implement their cybersecurity programs.
+
+Railway Cybersecurity Framework – China has developed a national cybersecurity framework for railways, integrating physical security, network security, data security, and personnel security
 
 
 As rail systems become interconnected, this digitization enhances traffic management, network communication, and energy efficiency. However, it also means more potential threats from cyberattacks. As the attack surface grows, governments and committees worldwide commit to providing guidance and specifications to improve rail organizations' cybersecurity.
