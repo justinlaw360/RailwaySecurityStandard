@@ -1,6 +1,17 @@
 # Railway Security Standard
 Railway Security Standard
 
+Yes! TS 50701:2023 is closely related to several other cybersecurity standards, particularly those used in industrial and railway applications. Here are a few similar standards:
+
+IEC 62443 Series – This is a widely recognized standard for cybersecurity in industrial automation and control systems. TS 50701 is heavily based on IEC 62443, particularly Part 3-2 (Security risk assessment for system design) and Part 3-3 (System security requirements and security levels).
+
+EN 50126 – This standard focuses on Reliability, Availability, Maintainability, and Safety (RAMS) in railway systems. TS 50701 integrates cybersecurity considerations into the RAMS lifecycle.
+
+EN ISO/IEC 27001 & EN ISO 27002 – These are general cybersecurity standards that provide guidelines for information security management systems. TS 50701 aligns with some of their security management principles
+
+
+
+
 As rail systems become interconnected, this digitization enhances traffic management, network communication, and energy efficiency. However, it also means more potential threats from cyberattacks. As the attack surface grows, governments and committees worldwide commit to providing guidance and specifications to improve rail organizations' cybersecurity.
 
 In 2021, CENELEC issued technical specifications known as the CLC/TS 50701:2021, the first international standard providing cybersecurity guidance for rail applications. The adoption of new measures like TS 50701 can take time; nevertheless, the standard's influence exceeds EU boundaries, with implementation efforts extending globally. Two years after its publication, the TS 50701 has become the reference standard used by operators to define security requirements.
